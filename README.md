@@ -67,6 +67,8 @@ In this instance `PUID=1001` and `PGID=1001`. To find yours use `id user` as bel
 ## Setting up the application
 `IMPORTANT... THIS IS THE ARM64 VERSION`
 
+`The keygen operation on the first run of the container can take a long time, be patient`
+
 The webui is at https://ip:8443 , setup with the first run wizard.
 
 To adopt a Unifi Access Point, and get it to show up in the software, take these steps:
