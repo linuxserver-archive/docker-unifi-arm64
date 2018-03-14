@@ -37,6 +37,14 @@ docker create \
   lsioarmhf/unifi-aarch64
 ```
 
+You can choose between ,using tags, latest (default lts 5.6 release branch, and no tag required)  or the unstable (5.7) release branch of unifi.
+
+Add one of the tags, if required, to the linuxserver/unifi line of the run/create command in the following format, linuxserver/unifi:unstable
+
+#### Tags
+
++ **unstable** : releases from the 5.7x branch.
+
 ## Parameters
 
 `The parameters are split into two halves, separated by a colon, the left hand side representing the host and the right the container side. 
