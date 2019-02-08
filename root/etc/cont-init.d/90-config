@@ -1,0 +1,21 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/unifi                    *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/unifi      *
+*                                                    *
+*   https://github.com/linuxserver/docker-unifi      *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************
+******************************************************'
