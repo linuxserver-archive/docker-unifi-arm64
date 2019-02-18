@@ -1,21 +1,21 @@
 #!/usr/bin/with-contenv bash
 
 echo '
-******************************************************
-******************************************************
-*                                                    *
-*                                                    *
-*          This image has been deprecated            *
-*                                                    *
-*           Use the multi-arch images at             *
-*                                                    *
-*               linuxserver/unifi                    *
-*                                                    *
-*    https://hub.docker.com/r/linuxserver/unifi      *
-*                                                    *
-*   https://github.com/linuxserver/docker-unifi      *
-*                                                    *
-*                                                    *
-*                                                    *
-******************************************************
-******************************************************'
+***************************************************************
+***************************************************************
+*                                                             *
+*                                                             *
+*          This image has been deprecated                     *
+*                                                             *
+*           Use the multi-arch images at                      *
+*                                                             *
+*               linuxserver/unifi-controller                  *
+*                                                             *
+*    https://hub.docker.com/r/linuxserver/unifi-controller    *
+*                                                             *
+*   https://github.com/linuxserver/docker-unifi-controller    *
+*                                                             *
+*                                                             *
+*                                                             *
+***************************************************************
+***************************************************************'
